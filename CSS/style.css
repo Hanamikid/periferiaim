@@ -1,0 +1,191 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table {
+    background-color: rgba(255,255,255,0.7);
+    border: none;
+    align-items: center;
+}
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+}
+a {
+    color: green;
+    text-decoration: none;
+    font-family: cursive;
+}
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+a:active,:visited {
+    color: blue;
+    text-decoration: none;
+}
+p {
+    font-size: large;
+}
+#billentyuzet {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(95, 172, 217);
+    border: 3px solid black;
+}
+#suli_billentyuzet {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(95, 172, 217);
+    border: 3px solid black;
+    float: right;
+}
+#monitor {
+    width: 190px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(95, 172, 217);
+    border: 3px solid black;
+}
+#suli_monitor {
+    width: 190px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(95, 172, 217);
+    float: left;
+    border: 3px solid black;
+}
+#wacom {
+    width: 180px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(95, 172, 217);
+    float: left;
+    border: 3px solid black;
+}
+#jaguar {
+    width: 250px;
+    height: 150px;
+    margin: 15px;
+    float: right;
+    border: 3px solid black;
+}
+#kontroller {
+    width: 180px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(44, 209, 63);
+    border: 3px solid black;
+}
+#gaming_kontroller {
+    width: 180px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(44, 209, 63);
+    border: 3px solid black;
+    float: left;
+}
+#dualshock {
+    width: 180px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(44, 209, 63);
+    border: 3px solid black;
+    float: right;
+}
+#cloud {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(44, 209, 63);
+    border: 3px solid black;
+}
+#gaming_cloud {
+    width: 150px;
+    height: 150px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(44, 209, 63);
+    border: 3px solid black;
+    float: left;
+}
+#fejhallgato {
+    width: 150px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+}
+#zene_fejhallgato {
+    width: 150px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+    float: right;
+}
+#kis_hangfal {
+    width: 180px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+}
+#zene_kis_hangfal {
+    width: 180px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+    float: left;
+}
+#nagy_hangfal {
+    width: 180px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+    float: left;
+}
+#erosito {
+    width: 240px;
+    height: 180px;
+    margin: 15px;
+    box-shadow: 8px 8px rgb(217, 7, 7);
+    border: 3px solid black;
+    float: right;
+}
+#forrasok:link {
+    color: white;
+    text-decoration: none;
+}
+.p1 {
+    text-align: center;
+}
+.szoveg {
+    width: 500px;
+    text-align: center;
+}
+.kep {
+    width: 200px;
+    align-items: center;
+}
+.forrasok {
+   padding-left: 450px;
+}
+.suli_szoveg {
+    width: 700px;
+}
+.zene_szoveg {
+    width: 900px;
+}
+.gaming_szoveg {
+    width: 800px;
+}
